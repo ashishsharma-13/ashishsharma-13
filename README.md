@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ashish Sharma — animated profile banner](./assets/ashish-banner.gif)
+![Ashish Sharma — animated profile banner](./ashish-banner.gif)
 
 # Ashish Sharma
 
